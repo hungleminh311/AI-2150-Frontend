@@ -1,0 +1,77 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unleash the power of design with gamble and let your imagination roll the dice.",
+        "title": "Bet on Your Creativity"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Unleash the power of design with gamble and let your imagination roll the dice.",
+        "title": "Bet on Your Creativity"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Unleash the power of design with gamble and let your imagination roll the dice. Bet on Your Creativity",
+        "title": "Bet on Your Creativity Bet on Your Creativity Bet on Your Creativity Bet on Your Creativity"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unleash the power of design with gamble and let your imagination roll the dice.",
+        "title": "Bet on Your Creativity"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unleash the power of design with gamble and let your imagination roll the dice.",
+        "title": "Bet on Your Creativity"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the power of design with gamble and let your imagination roll the dice.",
+        "title": "Bet on Your Creativity"
+      }
+    },
+    {
+      "id": "StatsSimple"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unleash the power of design with gamble and let your imagination roll the dice.",
+        "title": "Bet on Your Creativity"
+      }
+    },
+    {
+      "id": "FaqsCenteredAccordion"
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unleash the power of design with gamble and let your imagination roll the dice.",
+        "title": "Bet on Your Creativity"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the power of design with gamble and let your imagination roll the dice.",
+        "title": "Bet on Your Creativity"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Bet on Your Creativity",
+  "subtitle": "Unleash the power of design with gamble and let your imagination roll the dice."
+}
